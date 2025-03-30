@@ -39,3 +39,8 @@
 [17:42:50] [Server thread/INFO]: R4GNAR joined the game
 [17:42:51] [Server thread/INFO]: R4GNAR[/172.23.198.0:50654] logged in with entity id 99 at ([world]-11.699999988079071, 71.0, -2.300000011920929)
 [17:43:02] [Async Chat Thread - #0/INFO]: [Not Secure] <R4GNAR> hola
+[17:52:52] [Server thread/INFO]: R4GNAR lost connection: Disconnected
+[17:52:52] [Server thread/INFO]: R4GNAR left the game
+[17:53:45] [User Authenticator #1/INFO]: UUID of player R4GNAR is 96a1fb32-225e-313a-8eb7-ecb5425968e0
+[17:53:47] [Server thread/INFO]: R4GNAR joined the game
+[17:53:47] [Server thread/INFO]: R4GNAR[/172.23.198.0:51221] logged in with entity id 1566 at ([world]8.277107401238796, 72.0, -35.743457588266)
